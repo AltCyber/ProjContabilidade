@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Debora\\Desktop\\Projeto.Contabilidade\\Projeto.Contabilidade.csproj": {}
+    "D:\\Matheus\\ProjContabilidade\\Projeto.Contabilidade.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Debora\\Desktop\\Projeto.Contabilidade\\Projeto.Contabilidade.csproj": {
+    "D:\\Matheus\\ProjContabilidade\\Projeto.Contabilidade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Debora\\Desktop\\Projeto.Contabilidade\\Projeto.Contabilidade.csproj",
+        "projectUniqueName": "D:\\Matheus\\ProjContabilidade\\Projeto.Contabilidade.csproj",
         "projectName": "Projeto.Contabilidade",
-        "projectPath": "C:\\Users\\Debora\\Desktop\\Projeto.Contabilidade\\Projeto.Contabilidade.csproj",
-        "packagesPath": "C:\\Users\\Debora\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Debora\\Desktop\\Projeto.Contabilidade\\obj\\",
+        "projectPath": "D:\\Matheus\\ProjContabilidade\\Projeto.Contabilidade.csproj",
+        "packagesPath": "C:\\Users\\prog_\\.nuget\\packages\\",
+        "outputPath": "D:\\Matheus\\ProjContabilidade\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Debora\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\prog_\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
