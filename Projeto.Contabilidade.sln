@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projeto.Contabilidade", "Projeto.Contabilidade.csproj", "{7876622B-1E5D-44A5-91A5-AE1B6E9591EA}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MotorDeCalculo", "MotorDeCalculo\MotorDeCalculo\MotorDeCalculo.csproj", "{20A2E9CD-C006-4474-870F-1AFA6B16E4F2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MotorDeCalculo", "..\MotorDeCalculo\MotorDeCalculo.csproj", "{14B09A10-2003-4178-AC5B-0220F95BB3EC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{7876622B-1E5D-44A5-91A5-AE1B6E9591EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7876622B-1E5D-44A5-91A5-AE1B6E9591EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7876622B-1E5D-44A5-91A5-AE1B6E9591EA}.Release|Any CPU.Build.0 = Release|Any CPU
-		{20A2E9CD-C006-4474-870F-1AFA6B16E4F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{20A2E9CD-C006-4474-870F-1AFA6B16E4F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{20A2E9CD-C006-4474-870F-1AFA6B16E4F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{20A2E9CD-C006-4474-870F-1AFA6B16E4F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14B09A10-2003-4178-AC5B-0220F95BB3EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14B09A10-2003-4178-AC5B-0220F95BB3EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14B09A10-2003-4178-AC5B-0220F95BB3EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14B09A10-2003-4178-AC5B-0220F95BB3EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
